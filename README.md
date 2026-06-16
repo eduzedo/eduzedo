@@ -53,10 +53,10 @@
 <h3 align="center">currently learning</h3>
 
 <p align="center">
-  🔹 API Development <br/>
-  🔹 SQL and Databases <br/>
-  🔹 Cybersecurity Fundamentals <br/>
-  🔹 Cloud Computing
+  - API Development <br/>
+  - SQL and Databases <br/>
+  - Cybersecurity Fundamentals <br/>
+  - Cloud Computing
 </p>
 
 <h3 align="center">contact me!</h3>
@@ -74,5 +74,5 @@
 </p>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="100px"/>
+  <img src="https://media1.tenor.com/m/CnGGsMwurVkAAAAC/cartoon-network-wert.gif" width="100px"/>
 </div>
