@@ -23,7 +23,8 @@
   <img src="https://img.shields.io/badge/typescript-BFAE75?logo=typescript&logoColor=2D1B2F"/>
   <img src="https://img.shields.io/badge/python-BFAE75?logo=python&logoColor=2D1B2F"/>
   <img src="https://img.shields.io/badge/html5-BFAE75?logo=html5&logoColor=2D1B2F"/>
-  <img src="https://img.shields.io/badge/css3-BFAE75?logo=css3&logoColor=2D1B2F"/>
+  <img src="https://img.shields.io/badge/tailwindcss-BFAE75?logo=tailwindcss&logoColor=2D1B2F"/>
+  <img src="https://img.shields.io/badge/css-BFAE75?logo=css&logoColor=2D1B2F"/>
 </p>
 
 <h3 align="center">frameworks + databases</h3>
